@@ -1,0 +1,16 @@
+C:\Users\salvi.21205\Desktop\interrogazione\interrogazione\obj\Debug\net8.0-windows\interrogazione.Form1.resources
+C:\Users\salvi.21205\Desktop\interrogazione\interrogazione\obj\Debug\net8.0-windows\interrogazione.csproj.GenerateResource.cache
+C:\Users\salvi.21205\Desktop\interrogazione\interrogazione\obj\Debug\net8.0-windows\interrogazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salvi.21205\Desktop\interrogazione\interrogazione\obj\Debug\net8.0-windows\interrogazione.AssemblyInfoInputs.cache
+C:\Users\salvi.21205\Desktop\interrogazione\interrogazione\obj\Debug\net8.0-windows\interrogazione.AssemblyInfo.cs
+C:\Users\salvi.21205\Desktop\interrogazione\interrogazione\obj\Debug\net8.0-windows\interrogazione.csproj.CoreCompileInputs.cache
+C:\Users\salvi.21205\Desktop\interrogazione\interrogazione\bin\Debug\net8.0-windows\interrogazione.exe
+C:\Users\salvi.21205\Desktop\interrogazione\interrogazione\bin\Debug\net8.0-windows\interrogazione.deps.json
+C:\Users\salvi.21205\Desktop\interrogazione\interrogazione\bin\Debug\net8.0-windows\interrogazione.runtimeconfig.json
+C:\Users\salvi.21205\Desktop\interrogazione\interrogazione\bin\Debug\net8.0-windows\interrogazione.dll
+C:\Users\salvi.21205\Desktop\interrogazione\interrogazione\bin\Debug\net8.0-windows\interrogazione.pdb
+C:\Users\salvi.21205\Desktop\interrogazione\interrogazione\obj\Debug\net8.0-windows\interrogazione.dll
+C:\Users\salvi.21205\Desktop\interrogazione\interrogazione\obj\Debug\net8.0-windows\refint\interrogazione.dll
+C:\Users\salvi.21205\Desktop\interrogazione\interrogazione\obj\Debug\net8.0-windows\interrogazione.pdb
+C:\Users\salvi.21205\Desktop\interrogazione\interrogazione\obj\Debug\net8.0-windows\interrogazione.genruntimeconfig.cache
+C:\Users\salvi.21205\Desktop\interrogazione\interrogazione\obj\Debug\net8.0-windows\ref\interrogazione.dll
